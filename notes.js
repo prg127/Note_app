@@ -1,5 +1,5 @@
 console.log('strating notes.js');
-var fs = require('f');
+var fs = require('fs');
 var addNote = (title, body) => {
   //console.log("Adding note", title, body);
   var notes = [];
